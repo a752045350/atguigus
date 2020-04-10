@@ -1,0 +1,179 @@
+2020-04-02 10:04:46.432 [main] INFO  com.atguigu.serviceedu.EduApplication - Starting EduApplication on DESKTOP-Q1IK3TI with PID 42404 (E:\springboot-resource\atguigus\guli_parent\service\service_edu\target\classes started by zhouweipeng in E:\springboot-resource\atguigus\guli_parent)
+2020-04-02 10:04:46.435 [main] INFO  com.atguigu.serviceedu.EduApplication - The following profiles are active: dev
+2020-04-02 10:04:47.781 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-02 10:04:47.785 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-04-02 10:04:47.825 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+2020-04-02 10:04:48.215 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a93a5308] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-02 10:04:49.220 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-04-02 10:04:49.253 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-04-02 10:04:49.263 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-02 10:04:49.264 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-04-02 10:04:49.292 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk18\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\jdk18\jdk1.8\bin;E:\MySql\MYSQL\bin;E:\ice\ice\bin;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\OpenSSH\;E:\maven\apache-maven-3.6.0\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\svn\bin;E:\SVN服务器\bin;%G;ADLE_HOME%\bin;C:\ProgramData\chocolatey\bin;E:\work\nodes\;F:\Microsoft VS Code\bin;C:\Users\zhouweipeng\AppData\Local\Microsoft\WindowsApps;C:\Users\zhouweipeng\AppData\Local\BypassRuntm;E:\work\nodes\node_global;;.]
+2020-04-02 10:04:49.414 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-02 10:04:49.415 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2931 ms
+2020-04-02 10:04:49.547 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-04-02 10:04:50.257 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-04-02 10:04:51.297 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-04-02 10:04:51.609 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-02 10:04:52.263 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-02 10:04:52.287 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-02 10:04:52.320 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-02 10:04:52.511 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-04-02 10:04:52.540 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-04-02 10:04:52.542 [main] INFO  com.atguigu.serviceedu.EduApplication - Started EduApplication in 6.921 seconds (JVM running for 7.501)
+2020-04-02 10:12:51.859 [main] INFO  com.atguigu.serviceedu.EduApplication - Starting EduApplication on DESKTOP-Q1IK3TI with PID 60548 (E:\springboot-resource\atguigus\guli_parent\service\service_edu\target\classes started by zhouweipeng in E:\springboot-resource\atguigus\guli_parent)
+2020-04-02 10:12:51.863 [main] INFO  com.atguigu.serviceedu.EduApplication - The following profiles are active: dev
+2020-04-02 10:12:53.132 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-02 10:12:53.135 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-04-02 10:12:53.173 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2020-04-02 10:12:53.493 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9f8ba771] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-02 10:12:54.399 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-04-02 10:12:54.413 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-04-02 10:12:54.422 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-02 10:12:54.423 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-04-02 10:12:54.433 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk18\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\jdk18\jdk1.8\bin;E:\MySql\MYSQL\bin;E:\ice\ice\bin;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\OpenSSH\;E:\maven\apache-maven-3.6.0\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\svn\bin;E:\SVN服务器\bin;%G;ADLE_HOME%\bin;C:\ProgramData\chocolatey\bin;E:\work\nodes\;F:\Microsoft VS Code\bin;C:\Users\zhouweipeng\AppData\Local\Microsoft\WindowsApps;C:\Users\zhouweipeng\AppData\Local\BypassRuntm;E:\work\nodes\node_global;;.]
+2020-04-02 10:12:54.558 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-02 10:12:54.559 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2539 ms
+2020-04-02 10:12:54.689 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-04-02 10:12:55.002 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-04-02 10:12:55.865 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-04-02 10:12:56.084 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-02 10:12:56.620 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-02 10:12:56.640 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-02 10:12:56.671 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-02 10:12:56.831 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-04-02 10:12:56.861 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-04-02 10:12:56.864 [main] INFO  com.atguigu.serviceedu.EduApplication - Started EduApplication in 5.708 seconds (JVM running for 6.283)
+2020-04-02 10:13:06.400 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-02 10:13:06.400 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-02 10:13:06.412 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+2020-04-02 11:59:04.445 [main] INFO  com.atguigu.serviceedu.EduApplication - Starting EduApplication on DESKTOP-Q1IK3TI with PID 12536 (E:\springboot-resource\atguigus\guli_parent\service\service_edu\target\classes started by zhouweipeng in E:\springboot-resource\atguigus\guli_parent)
+2020-04-02 11:59:04.448 [main] INFO  com.atguigu.serviceedu.EduApplication - The following profiles are active: dev
+2020-04-02 11:59:05.406 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-02 11:59:05.409 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-04-02 11:59:05.447 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2020-04-02 11:59:05.779 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$eca9cbe] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-02 11:59:06.686 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-04-02 11:59:06.701 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-04-02 11:59:06.710 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-02 11:59:06.710 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-04-02 11:59:06.720 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk18\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\jdk18\jdk1.8\bin;E:\MySql\MYSQL\bin;E:\ice\ice\bin;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\OpenSSH\;E:\maven\apache-maven-3.6.0\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\svn\bin;E:\SVN服务器\bin;%G;ADLE_HOME%\bin;C:\ProgramData\chocolatey\bin;E:\work\nodes\;F:\Microsoft VS Code\bin;C:\Users\zhouweipeng\AppData\Local\Microsoft\WindowsApps;C:\Users\zhouweipeng\AppData\Local\BypassRuntm;E:\work\nodes\node_global;;.]
+2020-04-02 11:59:06.839 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-02 11:59:06.839 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2341 ms
+2020-04-02 11:59:06.969 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-04-02 11:59:07.429 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-04-02 11:59:08.373 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-04-02 11:59:08.580 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-02 11:59:09.096 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-02 11:59:09.117 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-02 11:59:09.147 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-02 11:59:09.325 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-04-02 11:59:09.372 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-04-02 11:59:09.374 [main] INFO  com.atguigu.serviceedu.EduApplication - Started EduApplication in 5.673 seconds (JVM running for 6.253)
+2020-04-02 12:07:23.284 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-02 12:07:23.285 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-02 12:07:23.295 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2020-04-02 14:22:03.721 [main] INFO  com.atguigu.serviceedu.EduApplication - Starting EduApplication on DESKTOP-Q1IK3TI with PID 39756 (E:\springboot-resource\atguigus\guli_parent\service\service_edu\target\classes started by zhouweipeng in E:\springboot-resource\atguigus\guli_parent)
+2020-04-02 14:22:03.726 [main] INFO  com.atguigu.serviceedu.EduApplication - The following profiles are active: dev
+2020-04-02 14:22:05.686 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-02 14:22:05.688 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-04-02 14:22:05.726 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+2020-04-02 14:22:06.069 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7a098f29] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-02 14:22:07.075 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-04-02 14:22:07.092 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-04-02 14:22:07.119 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-02 14:22:07.119 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-04-02 14:22:07.132 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk18\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\jdk18\jdk1.8\bin;E:\MySql\MYSQL\bin;E:\ice\ice\bin;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\OpenSSH\;E:\maven\apache-maven-3.6.0\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\svn\bin;E:\SVN服务器\bin;%G;ADLE_HOME%\bin;C:\ProgramData\chocolatey\bin;E:\work\nodes\;F:\Microsoft VS Code\bin;C:\Users\zhouweipeng\AppData\Local\Microsoft\WindowsApps;C:\Users\zhouweipeng\AppData\Local\BypassRuntm;E:\work\nodes\node_global;;.]
+2020-04-02 14:22:07.274 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-02 14:22:07.274 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3445 ms
+2020-04-02 14:22:07.404 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-04-02 14:22:07.951 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-04-02 14:22:08.925 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-04-02 14:22:09.155 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-02 14:22:09.695 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-02 14:22:09.718 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-02 14:22:09.749 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-02 14:22:09.945 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-04-02 14:22:09.973 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-04-02 14:22:09.976 [main] INFO  com.atguigu.serviceedu.EduApplication - Started EduApplication in 7.037 seconds (JVM running for 7.649)
+2020-04-02 14:22:17.812 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-02 14:22:17.812 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-02 14:22:17.821 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2020-04-02 14:24:11.167 [main] INFO  com.atguigu.serviceedu.EduApplication - Starting EduApplication on DESKTOP-Q1IK3TI with PID 20572 (E:\springboot-resource\atguigus\guli_parent\service\service_edu\target\classes started by zhouweipeng in E:\springboot-resource\atguigus\guli_parent)
+2020-04-02 14:24:11.171 [main] INFO  com.atguigu.serviceedu.EduApplication - The following profiles are active: dev
+2020-04-02 14:24:12.154 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-02 14:24:12.156 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-04-02 14:24:12.194 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2020-04-02 14:24:12.518 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d090f31b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-02 14:24:13.458 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-04-02 14:24:13.473 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-04-02 14:24:13.481 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-02 14:24:13.482 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-04-02 14:24:13.491 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk18\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\jdk18\jdk1.8\bin;E:\MySql\MYSQL\bin;E:\ice\ice\bin;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\OpenSSH\;E:\maven\apache-maven-3.6.0\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\svn\bin;E:\SVN服务器\bin;%G;ADLE_HOME%\bin;C:\ProgramData\chocolatey\bin;E:\work\nodes\;F:\Microsoft VS Code\bin;C:\Users\zhouweipeng\AppData\Local\Microsoft\WindowsApps;C:\Users\zhouweipeng\AppData\Local\BypassRuntm;E:\work\nodes\node_global;;.]
+2020-04-02 14:24:13.618 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-02 14:24:13.618 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2354 ms
+2020-04-02 14:24:13.751 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-04-02 14:24:14.067 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-04-02 14:24:15.000 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-04-02 14:24:15.244 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-02 14:24:15.845 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-02 14:24:15.867 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-02 14:24:15.898 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-02 14:24:16.072 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-04-02 14:24:16.102 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-04-02 14:24:16.104 [main] INFO  com.atguigu.serviceedu.EduApplication - Started EduApplication in 5.554 seconds (JVM running for 6.105)
+2020-04-02 14:24:22.811 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-02 14:24:22.812 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-02 14:24:22.825 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 13 ms
+2020-04-02 15:59:12.635 [main] INFO  com.atguigu.serviceedu.EduApplication - Starting EduApplication on DESKTOP-Q1IK3TI with PID 14028 (E:\springboot-resource\atguigus\guli_parent\service\service_edu\target\classes started by zhouweipeng in E:\springboot-resource\atguigus\guli_parent)
+2020-04-02 15:59:12.640 [main] INFO  com.atguigu.serviceedu.EduApplication - The following profiles are active: dev
+2020-04-02 15:59:13.665 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-02 15:59:13.667 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-04-02 15:59:13.706 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2020-04-02 15:59:14.151 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4e8f19e9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-02 15:59:15.244 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-04-02 15:59:15.260 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-04-02 15:59:15.270 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-02 15:59:15.270 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-04-02 15:59:15.281 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk18\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\jdk18\jdk1.8\bin;E:\MySql\MYSQL\bin;E:\ice\ice\bin;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\OpenSSH\;E:\maven\apache-maven-3.6.0\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\svn\bin;E:\SVN服务器\bin;%G;ADLE_HOME%\bin;C:\ProgramData\chocolatey\bin;E:\work\nodes\;F:\Microsoft VS Code\bin;C:\Users\zhouweipeng\AppData\Local\Microsoft\WindowsApps;C:\Users\zhouweipeng\AppData\Local\BypassRuntm;E:\work\nodes\node_global;;.]
+2020-04-02 15:59:15.416 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-02 15:59:15.417 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2706 ms
+2020-04-02 15:59:16.864 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-04-02 15:59:17.387 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-04-02 15:59:18.967 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-04-02 15:59:19.318 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-02 15:59:20.413 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-02 15:59:20.456 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-02 15:59:20.533 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-02 15:59:20.890 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-04-02 15:59:20.965 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-04-02 15:59:20.975 [main] INFO  com.atguigu.serviceedu.EduApplication - Started EduApplication in 8.974 seconds (JVM running for 10.64)
+2020-04-02 15:59:24.798 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-02 15:59:24.799 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-02 15:59:24.812 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 13 ms
+2020-04-02 16:01:25.020 [main] INFO  com.atguigu.serviceedu.EduApplication - Starting EduApplication on DESKTOP-Q1IK3TI with PID 25468 (E:\springboot-resource\atguigus\guli_parent\service\service_edu\target\classes started by zhouweipeng in E:\springboot-resource\atguigus\guli_parent)
+2020-04-02 16:01:25.050 [main] INFO  com.atguigu.serviceedu.EduApplication - The following profiles are active: dev
+2020-04-02 16:01:26.167 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-02 16:01:26.170 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-04-02 16:01:26.212 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 27ms. Found 0 repository interfaces.
+2020-04-02 16:01:26.575 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$34783fa2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-02 16:01:27.698 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-04-02 16:01:27.713 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-04-02 16:01:27.723 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-02 16:01:27.724 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-04-02 16:01:27.735 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk18\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\jdk18\jdk1.8\bin;E:\MySql\MYSQL\bin;E:\ice\ice\bin;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\OpenSSH\;E:\maven\apache-maven-3.6.0\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\svn\bin;E:\SVN服务器\bin;%G;ADLE_HOME%\bin;C:\ProgramData\chocolatey\bin;E:\work\nodes\;F:\Microsoft VS Code\bin;C:\Users\zhouweipeng\AppData\Local\Microsoft\WindowsApps;C:\Users\zhouweipeng\AppData\Local\BypassRuntm;E:\work\nodes\node_global;;.]
+2020-04-02 16:01:27.860 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-02 16:01:27.861 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2736 ms
+2020-04-02 16:01:29.239 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-04-02 16:01:29.711 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-04-02 16:01:31.265 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-04-02 16:01:31.625 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-02 16:01:32.734 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-02 16:01:32.780 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-02 16:01:32.893 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-02 16:01:33.363 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-04-02 16:01:33.435 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-04-02 16:01:33.443 [main] INFO  com.atguigu.serviceedu.EduApplication - Started EduApplication in 9.202 seconds (JVM running for 9.801)
+2020-04-02 16:01:43.906 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-02 16:01:43.907 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-02 16:01:43.920 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 13 ms

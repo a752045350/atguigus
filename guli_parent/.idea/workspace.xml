@@ -1,16 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/service/service_edu/src/main/resources/application.yml" line="24" mnemonic="3" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="039c3f00-695d-485a-9c89-1a6e6a9eb3c6" name="Default Changelist" comment="" />
+    <list default="true" id="039c3f00-695d-485a-9c89-1a6e6a9eb3c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/src/main/java/com/atguigu/commonUtils/PageUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/src/main/java/com/atguigu/commonUtils/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/src/main/java/com/atguigu/commonUtils/ResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/src/main/java/com/atguigu/servicebase/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/src/main/java/com/atguigu/servicebase/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/src/main/java/com/atguigu/servicebase/exception/GuliException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/src/main/java/com/atguigu/servicebase/handler/MyMetaObjectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/ChapterVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/CourseInfoVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/CoursePublishVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/CourseQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/OneSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/TeacherQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/TwoSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/VideoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/excel/ExcelSubjectData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/listener/ExcelSubjectListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/xml/EduCourseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_oss/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/OssApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/controller/OssController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/service/Impl/OssServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/service/OssService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/utils/ConstantPropertiesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/EduApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/EduApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/config/EduConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/config/EduConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduChapterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduChapterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduSubjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduSubjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduTeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduTeacherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduVideoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduVideoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduChapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduCourseDescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduCourseDescription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/EduCourseMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/EduCourseMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduChapterMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/xml/EduChapterMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduCommentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/xml/EduCommentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduCourseCollectMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/xml/EduCourseCollectMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduCourseDescriptionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/xml/EduCourseDescriptionMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduCourseMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduSubjectMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/xml/EduSubjectMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduTeacherMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/xml/EduTeacherMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduVideoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/xml/EduVideoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduChapterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduChapterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduCourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduCourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduSubjectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduSubjectService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduTeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduTeacherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduVideoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduVideoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduChapterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduChapterServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduSubjectServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduSubjectServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduVideoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduVideoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/EduApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/EduApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/controller/EduChapterController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/controller/EduCourseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/controller/EduSubjectController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/controller/EduSubjectController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/controller/EduTeacherController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/controller/EduTeacherController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/controller/EduVideoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/entity/EduChapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/entity/EduChapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/entity/EduCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/entity/EduCourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/entity/EduCourseDescription.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/entity/EduCourseDescription.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/entity/EduSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/entity/EduSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/entity/EduTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/entity/EduTeacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/entity/EduVideo.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/entity/EduVideo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/mapper/EduCourseMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/mapper/EduCourseMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/EduChapterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/EduCourseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/EduSubjectService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/EduSubjectService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/EduTeacherService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/EduTeacherService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/EduVideoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/impl/EduChapterServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/impl/EduCourseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/impl/EduSubjectServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/impl/EduSubjectServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/service/impl/EduVideoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/service_edu-1.0.0-SNAPSHOT.jar" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/service/target/" />
     <ignored path="$PROJECT_DIR$/service/service_edu/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/common/service_base/target/" />
+    <ignored path="$PROJECT_DIR$/common/common_utils/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_oss/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -30,38 +143,52 @@
     <session id="1938135297">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="496" />
-          <entry key="xml" value="114" />
-          <entry key="yml" value="102" />
+          <entry key="java" value="9585" />
+          <entry key="properties" value="5" />
+          <entry key="xml" value="328" />
+          <entry key="yml" value="562" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="496" />
-          <entry key="XML" value="114" />
-          <entry key="YAML" value="102" />
+          <entry key="JAVA" value="9585" />
+          <entry key="Properties" value="5" />
+          <entry key="SQL" value="8" />
+          <entry key="XML" value="320" />
+          <entry key="YAML" value="562" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="12" />
-          <entry key="xml" value="3" />
-          <entry key="yml" value="4" />
+          <entry key="class" value="11" />
+          <entry key="java" value="164" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="46" />
+          <entry key="yml" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="12" />
-          <entry key="XML" value="3" />
-          <entry key="YAML" value="4" />
+          <entry key="CLASS" value="11" />
+          <entry key="JAVA" value="164" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="46" />
+          <entry key="YAML" value="24" />
         </counts>
       </usages-collector>
     </session>
@@ -70,67 +197,106 @@
     <favorites_list name="guli_parent" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="98" column="33" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduCourse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="62" column="26" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduVideoService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduChapterService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduChapterServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="103" column="5" lean-forward="true" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduTeacherController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/config/EduConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="364">
+              <caret line="63" column="25" lean-forward="true" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduTeacher.java">
+        <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduVideoServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="459">
+              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/EduApplication.java">
+        <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduTeacherService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="351">
+              <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="141" column="19" selection-start-line="141" selection-start-column="19" selection-end-line="141" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#3100#3101#0" expanded="true" />
+                <element signature="e#3160#3161#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.0.5/mybatis-plus-extension-3.0.5.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
+        <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduCourseService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-999">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="225">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,9 +306,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>se</find>
+      <find>selectList</find>
+      <find>getPublishCourseInfo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -155,15 +332,56 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/service/pom.xml" />
-        <option value="$PROJECT_DIR$/service/service_edu/pom.xml" />
-        <option value="$PROJECT_DIR$/service/service_edu/src/test/java/com/atguigu/GetCode.java" />
-        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/EduApplication.java" />
-        <option value="$PROJECT_DIR$/service/service_edu/src/main/resources/application-dev.yml" />
-        <option value="$PROJECT_DIR$/service/service_edu/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/config/EduConfig.java" />
+        <option value="$PROJECT_DIR$/common/service_base/src/main/java/com/atguigu/servicebase/config/handler/MyMetaObjectHandler.java" />
+        <option value="$PROJECT_DIR$/common/service_base/src/main/java/com/atguigu/servicebase/exception/GuliException.java" />
+        <option value="$PROJECT_DIR$/common/service_base/src/main/java/com/atguigu/servicebase/exception/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduLoginController.java" />
         <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduTeacher.java" />
+        <option value="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/service/OssService.java" />
+        <option value="$PROJECT_DIR$/common/service_base/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_oss/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service/service_oss/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/OssApplication.java" />
+        <option value="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/utils/ConstantPropertiesUtil.java" />
+        <option value="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/service/Impl/OssServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_oss/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/controller/OssController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/excel/ExcelSubjectData.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/listener/ExcelSubjectListener.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduSubject.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/TwoSubject.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduSubjectService.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/OneSubject.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduSubjectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduSubjectController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduCourse.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/CourseInfoVo.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduCourseDescription.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/ChapterVO.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/VideoVO.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduChapter.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduChapterController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduVideo.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduVideoController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/CoursePublishVo.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/EduCourseMapper.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/EduApplication.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduCourseMapper.xml" />
+        <option value="$PROJECT_DIR$/service/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/CourseQuery.java" />
         <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduTeacherController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduCourseService.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduVideoService.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduVideoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduChapterService.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduChapterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseController.java" />
       </list>
     </option>
   </component>
@@ -192,15 +410,6 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="guli_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="guli_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -222,24 +431,92 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="45" />
-    <option name="y" value="1" />
-    <option name="width" value="1940" />
-    <option name="height" value="1088" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_edu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_edu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_edu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_edu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="serviceedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_edu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="serviceedu" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_edu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="serviceedu" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -252,14 +529,25 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/springboot-resource/atguigus/guli_parent/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduTeacher.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585300756700" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586511418750" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../atguigu/guli_parent" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\springboot-resource\atguigus\guli_parent\service\service_edu\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.commonUtils" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\springboot-resource\atguigus\guli_parent\service\service_edu\src\main\resources" />
     </key>
@@ -276,7 +564,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EduApplication">
+  <component name="RunManager" selected="Spring Boot.OssApplication">
+    <configuration name="EduApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.serviceedu.EduApplication" />
+      <module name="service_edu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.serviceedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GetCode.main1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="service_edu" />
       <extension name="coverage">
@@ -306,12 +607,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_oss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.oss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.oss.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.GetCode.main1" />
       <item itemvalue="Spring Boot.EduApplication" />
+      <item itemvalue="Application.EduApplication" />
+      <item itemvalue="Spring Boot.OssApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.OssApplication" />
+        <item itemvalue="Application.EduApplication" />
         <item itemvalue="Spring Boot.EduApplication" />
         <item itemvalue="JUnit.GetCode.main1" />
       </list>
@@ -327,7 +645,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585292656804</updated>
-      <workItem from="1585292660370" duration="6589000" />
+      <workItem from="1585292660370" duration="7817000" />
+      <workItem from="1585531276630" duration="6301000" />
+      <workItem from="1585617507579" duration="10580000" />
+      <workItem from="1585790522420" duration="11897000" />
+      <workItem from="1585876707306" duration="19009000" />
+      <workItem from="1586221950112" duration="13165000" />
+      <workItem from="1586308212613" duration="18131000" />
+      <workItem from="1586395278899" duration="19113000" />
+      <workItem from="1586481238854" duration="20448000" />
     </task>
     <servers />
   </component>
@@ -364,44 +690,45 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6589000" />
+    <option name="totallyTimeSpent" value="126461000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" sideWeight="0.5014045" side_tool="true" visible="true" weight="0.18976545" />
-      <window_info id="Capture Tool" />
-      <window_info id="Web" sideWeight="0.5008026" side_tool="true" weight="0.20682302" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985955" visible="true" weight="0.18976545" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49944383" visible="true" weight="0.24466951" />
       <window_info id="Structure" order="1" sideWeight="0.5008026" side_tool="true" weight="0.20682302" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5005562" side_tool="true" weight="0.18976545" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.5008026" side_tool="true" weight="0.20682302" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2080089" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.3596882" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3351893" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.15405117" />
-      <window_info anchor="right" id="Database" weight="0.32995737" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32962137" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.4465479" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32962137" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.14818764" />
+      <window_info anchor="right" id="Database" order="6" weight="0.20735608" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,57 +737,375 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/controller/OssController.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/OneSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduSubjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/TwoSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduCourseDescription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/CourseInfoVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/controller/OssController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/service_base/src/main/java/com/atguigu/servicebase/handler/MyMetaObjectHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/config/EduConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/ChapterVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/VideoVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseDescriptionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseCollectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduSubjectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduChapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="49" column="47" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.0.5/mybatis-plus-extension-3.0.5.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduChapterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="76" column="47" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduVideoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/EduCourseCollectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/serviceedu/mapper/EduCourseMapper.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="140" selection-start-line="5" selection-start-column="140" selection-end-line="5" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/CoursePublishVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.0.5/mybatis-plus-extension-3.0.5.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/resources/xml/EduCourseMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/EduCourseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="207" column="25" selection-start-line="207" selection-start-column="25" selection-end-line="207" selection-end-column="25" />
+        <state relative-caret-position="-5518" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="64" column="46" selection-start-line="64" selection-start-column="46" selection-end-line="64" selection-end-column="46" />
+        <state relative-caret-position="250">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5.jar!/com/baomidou/mybatisplus/core/override/PageMapperProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="145" selection-start-line="14" selection-start-column="145" selection-end-line="14" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.5.RELEASE/spring-aop-5.1.5.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="690" selection-start-line="690" selection-end-line="690" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/EduApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/OssApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/VO/CourseQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="52" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/TAgreeTmplMapper.xml">
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduTeacherController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="364">
+          <caret line="63" column="25" lean-forward="true" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/TAgreeTmplMapper.java">
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduVideoServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="459">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/TAgreeTmplService.java">
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduTeacherService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="351">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/src/test/java/com/atguigu/GetCode.java">
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="61" column="41" lean-forward="true" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+        <state relative-caret-position="225">
+          <caret line="141" column="19" selection-start-line="141" selection-start-column="19" selection-end-line="141" selection-end-column="19" />
+          <folding>
+            <element signature="e#3100#3101#0" expanded="true" />
+            <element signature="e#3160#3161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduCourseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -469,97 +1114,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduCourse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="30" column="51" lean-forward="true" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+        <state relative-caret-position="420">
+          <caret line="62" column="26" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.0.5/mybatis-plus-extension-3.0.5.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-999">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/EduChapterMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/resources/application-dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/config/EduConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduTeacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduTeacherService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/EduApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduVideoService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduTeacherController.java">
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduChapterService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="459">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduChapterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="103" column="5" lean-forward="true" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="98" column="33" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="33" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>service_base</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

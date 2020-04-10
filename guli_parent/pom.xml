@@ -46,6 +46,7 @@
         <docker.image.prefix>zx</docker.image.prefix>
         <cloud-alibaba.version>0.2.2.RELEASE</cloud-alibaba.version>
         <druid.version>1.1.13</druid.version>
+        <commons.lang.version>2.6</commons.lang.version>
     </properties>
     <dependencyManagement>
         <dependencies>
@@ -194,6 +195,12 @@
                 <groupId>commons-dbutils</groupId>
                 <artifactId>commons-dbutils</artifactId>
                 <version>${commons-dbutils.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>commons-lang</groupId>
+                <artifactId>commons-lang</artifactId>
+                <version>${commons.lang.version}</version>
             </dependency>
 
             <dependency>

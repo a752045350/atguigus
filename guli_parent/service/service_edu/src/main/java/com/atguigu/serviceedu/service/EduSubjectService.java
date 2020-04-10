@@ -1,7 +1,11 @@
 package com.atguigu.serviceedu.service;
 
 import com.atguigu.serviceedu.entity.EduSubject;
+import com.atguigu.serviceedu.entity.VO.OneSubject;
 import com.baomidou.mybatisplus.extension.service.IService;
+import org.springframework.web.multipart.MultipartFile;
+
+import java.util.List;
 
 /**
  * <p>
@@ -13,4 +17,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  */
 public interface EduSubjectService extends IService<EduSubject> {
 
+    void saveSubject(MultipartFile file,EduSubjectService eduSubjectService);
+
+    List<OneSubject>  nestedList();
 }

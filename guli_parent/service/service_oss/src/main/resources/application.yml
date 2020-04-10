@@ -1,0 +1,14 @@
+
+server:
+  port: 8082
+spring:
+  application:
+    name: service_oss
+  profiles:
+    active: dev
+aliyun:
+  oss:
+    endpoint: oss-cn-shenzhen.aliyuncs.com
+    accessKeyId: LTAImRYt4v6NlBjB
+    accessKeySecret: F2Td8FxYjpnrMPB4BH1m1MxDyyEmcs
+    bucketname: zj-file

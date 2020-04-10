@@ -7,10 +7,26 @@ server:
   connection-timeout: 5000ms
   servlet:
     context-path: /
+
 spring:
   # 环境 dev|test|prod
   profiles:
     active: dev
+  jackson:
+    time-zone: GMT+8analysis
+    date-format: yyyy-MM-dd HH:mm:ss
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+      enabled: true
+#mybatis-plus:
+ # configuration:
+  #  log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  devtools:
+    restart:
+      enabled: true
+  freemarker:
+    cache: false
 mybatis-plus:
-  configuration:
-    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  mapper-locations: classpath:xml/*.xml

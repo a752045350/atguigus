@@ -20,6 +20,13 @@ spring:
       max-file-size: 100MB
       max-request-size: 100MB
       enabled: true
+#mybatis-plus:
+ # configuration:
+  #  log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  devtools:
+    restart:
+      enabled: true
+  freemarker:
+    cache: false
 mybatis-plus:
-  configuration:
-    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  mapper-locations: classpath:xml/*.xml

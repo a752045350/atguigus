@@ -1,7 +1,9 @@
 package com.atguigu.serviceedu.mapper;
 
 import com.atguigu.serviceedu.entity.EduCourse;
+import com.atguigu.serviceedu.entity.VO.CoursePublishVo;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import org.apache.ibatis.annotations.Param;
 
 /**
  * <p>
@@ -13,4 +15,5 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  */
 public interface EduCourseMapper extends BaseMapper<EduCourse> {
 
+    public CoursePublishVo getPublishCourseInfo(@Param("id") String courseId);
 }

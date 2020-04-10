@@ -1,0 +1,2 @@
+2020-04-08 17:31:10.234 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.atguigu.serviceedu.mapper]' package. Please check your configuration.
+2020-04-08 17:31:10.302 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.atguigu.serviceedu]' package. Please check your configuration.

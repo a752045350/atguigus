@@ -1,0 +1,4 @@
+com\atguigu\servicebase\exception\GlobalExceptionHandler.class
+com\atguigu\servicebase\config\SwaggerConfig.class
+com\atguigu\servicebase\handler\MyMetaObjectHandler.class
+com\atguigu\servicebase\exception\GuliException.class
